@@ -16,6 +16,8 @@ Starting Point: [Cloud Terminal](https://insanecloud.s3.us-east-1.amazonaws.com/
 ![image](https://github.com/user-attachments/assets/b8296b6e-82b5-4942-8dae-5f6980b8973c)
 
 
+Get the key from website to start the chall 
+
  Walkthrough
 
  1. Starting the AWS Session  
