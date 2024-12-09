@@ -25,8 +25,8 @@ Begin by configuring AWS CLI with the provided credentials:
 ```bash
 aws configure
 ```
-- Access Key: `AKIAVRUVTQEOE56R3NET`
-- Secret Key: `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`
+- Access Key: `---------------------`
+- Secret Key: `-------------------`
 - Region: `us-east-1`
 
 ---
@@ -37,7 +37,7 @@ Verify the status of the instance:
 aws ec2 describe-instance-status
 ```
 Output:
-- Instance ID: `i-01664eeea278b8c48`
+- Instance ID: `i------------------------`
 - State: Running
 
 ---
@@ -45,7 +45,7 @@ Output:
  3. Establishing SSM Session  
 Connect to the instance using AWS Systems Manager:
 ```bash
-aws ssm start-session --target i-01664eeea278b8c48
+aws ssm start-session --target i---------------------
 ```
 This successfully initiated a session with the instance.
 
