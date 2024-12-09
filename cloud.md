@@ -11,7 +11,7 @@ The first to find it will earn a special reward. Can you outsmart their defenses
 
 Starting Point: [Cloud Terminal](https://insanecloud.s3.us-east-1.amazonaws.com/aws.html)
 
-
+![image](https://github.com/user-attachments/assets/b8296b6e-82b5-4942-8dae-5f6980b8973c)
 
 
 Get the key from website to start the chall 
@@ -73,7 +73,7 @@ Switch to the `ubuntu` user using `sudo`:
 ```bash
 sudo su - ubuntu
 ```
-
+  ![image](https://github.com/user-attachments/assets/007d8cae-1597-4ca0-83fb-534846321164)
 
 ---
 
