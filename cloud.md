@@ -57,8 +57,7 @@ cat Hint.txt
 ```
 - Hint: "The flag is in `/home/ubuntu/flag.txt`."
 
-  ![image](https://github.com/user-attachments/assets/007d8cae-1597-4ca0-83fb-534846321164)
-
+ 
 
 ---
 
